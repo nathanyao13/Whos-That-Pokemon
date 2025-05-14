@@ -4,6 +4,9 @@ Pokémon has been a significant part of my life—from trading cards with classm
 
 
 
+
+
+
 The inspiration behind this project comes from a classic segment in the Pokémon anime: “Who’s that Pokémon?”
 
 In these moments, right before a commercial break, the screen would silhouette a Pokémon and challenge the viewer to identify it. 
