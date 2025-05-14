@@ -13,7 +13,7 @@ In these moments, right before a commercial break, the screen would silhouette a
 
 As a kid, I would always yell the answer at the screen—though the show usually made it obvious by introducing the Pokémon just moments before.
 
-But what if it *wasn’t* obvious?  
+But what if it wasn’t obvious?  
 What if the only thing you had was the image of the Pokémon itself?  
 Could you still tell which one it is?
 
