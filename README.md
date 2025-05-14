@@ -23,6 +23,6 @@ That’s the challenge this project takes on.
 
 Using **convolutional neural networks (CNNs)**, I’ve built a model that classifies Pokémon based purely on their images. This model plays the role of the viewer and attempts to answer the age-old question:
 
-> ### "Who’s That Pokémon?"
+### "Who’s That Pokémon?"
 
 ---
