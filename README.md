@@ -6,8 +6,6 @@ However, as I’ve grown older, my interactions with Pokémon have become less f
 
 ---
 
-## Project Inspiration
-
 The inspiration behind this project comes from a classic segment in the Pokémon anime:  
 ### **"Who’s That Pokémon?"**
 
