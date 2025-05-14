@@ -3,10 +3,6 @@ Pokémon ML: Who's that Pokémon?
 Pokémon has been a significant part of my life—from trading cards with classmates in elementary school to competing in TCG tournaments to playing the video games on emulators, and watching the anime on television. As a longtime fan, I’ve followed this iconic Japanese franchise since childhood. However, as I’ve grown older, my interactions with Pokémon have become less frequent. Now, as a college student studying Statistics and Machine Learning at CMU, I’ve been learning various machine learning concepts through my coursework. This project is an opportunity to merge my passion for Pokémon with my knowledge of machine learning.
 
 
-
-
-
-
 The inspiration behind this project comes from a classic segment in the Pokémon anime: “Who’s that Pokémon?”
 
 In these moments, right before a commercial break, the screen would silhouette a Pokémon and challenge the viewer to identify it. 
