@@ -11,7 +11,7 @@ The inspiration behind this project comes from a classic segment in the Pokémon
 
 In these moments, right before a commercial break, the screen would silhouette a Pokémon and challenge the viewer to identify it.
 
-![Who's That Pokémon?](https://archives.bulbagarden.net/media/upload/3/3b/WTP_EP001_before.png)
+![Who's That Pokémon?]([https://archives.bulbagarden.net/media/upload/3/3b/WTP_EP001_before.png](https://archives.bulbagarden.net/media/upload/8/84/WTP_EP001_before.png))
 
 
 As a kid, I would always yell the answer at the screen—though the show usually made it obvious by introducing the Pokémon just moments before.
