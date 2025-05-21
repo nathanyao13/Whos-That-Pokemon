@@ -23,8 +23,12 @@ Could you still tell which one it is?
 
 That’s the challenge this project takes on.
 
-Using **convolutional neural networks (CNNs)**, I’ve built a model that classifies Pokémon based purely on their images. This model plays the role of the viewer and attempts to answer the age-old question:
+This repository contains two models. 
 
-### "Who’s That Pokémon?"
+The first is a CNN model that uses transfer learning that uses PyTorch's ResNet18 which is a very powerful pre-trained CNN. I use this model to classify Pokémon types.
+
+The second is a CNN model I built from scratch using Tensorflow and Keras to classify legendary Pokémon.
+
+See ResNet18.py and CNN.py respectively.
 
 
