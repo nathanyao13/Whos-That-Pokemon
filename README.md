@@ -21,14 +21,28 @@ Could you still tell which one it is?
 
 ---
 
-That’s the challenge this project takes on.
+I have split this project into two different problems. The first problem showcases
+my understanding of ML. The second problem shows how I am able to apply models 
+in the real world. 
 
-This repository contains two models. 
+1. Classifying a Pokémon as a legendary or non-legendary:
 
-The first is a CNN model that uses transfer learning that uses PyTorch's ResNet18 which is a very powerful pre-trained CNN. I use this model to classify Pokémon types.
+    According to the Pokémon Wikipedia page, Legendary Pokémon are described as:
 
-The second is a CNN model I built from scratch using Tensorflow and Keras to classify legendary Pokémon.
+    “A group of incredibly rare and often very powerful Pokémon. They are often 
+    featured prominently in the legends and myths of the Pokémon world, with 
+    some even going so far as to view them as deities … No explicit criteria 
+    define what makes a Pokémon a Legendary Pokémon. Instead, the only way to 
+    identify a Pokémon as belonging to this group is through statements from 
+    official media, such as the games or animation.”
 
-See ResNet18.py and CNN.py respectively.
+    Description: 
+
+2. Classifying a Pokémon's primary type out of the 18 Pokémon types:
+    Grass, Fire, Water, Bug, Normal, Poison, Electric, Ground, 
+    Fairy, Fighting, Psychic, Rock, Ghost, Ice, Dragon, Dark, 
+    Steel, Flying. 
+
+    Description: 
 
 
