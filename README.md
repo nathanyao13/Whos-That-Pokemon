@@ -58,5 +58,10 @@ Sources:
     - https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset/data
 
     Research and Coding:
-    
+    - https://www.youtube.com/watch?v=FaW9JCSJn2s&ab_channel=SebastianRaschka
+    - https://github.com/rasbt/stat453-deep-learning-ss21
+    - https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+    - https://docs.pytorch.org/vision/0.9/models.html
+    - https://www.youtube.com/watch?v=ZoZHd0Zm3RY&ab_channel=AladdinPersson
+    - https://www.youtube.com/watch?v=jztwpsIzEGc&ab_channel=NicholasRenotte
 
