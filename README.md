@@ -43,5 +43,15 @@ in the real world.
     Fairy, Fighting, Psychic, Rock, Ghost, Ice, Dragon, Dark, 
     Steel, Flying. 
 
-    Description: 
+    Description:
+
+
+Sources:
+
+    Datasets:
+    - https://www.kaggle.com/datasets/cristobalmitchell/pokedex/data
+    - https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset/data
+
+    Research and Coding:
+    
 
