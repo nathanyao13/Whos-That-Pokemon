@@ -49,7 +49,7 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
     Results: <br>
     **3 Type Classification**:
     - ResNet18: 
-        - Best Validation Accuracy: 79.62%
+        - Best Validation Accuracy: 83.33%
     - ResNet50:  
         - Best Validation Accuracy: 66.66%
 
