@@ -47,7 +47,7 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
     Description:
        - In this project, I applied transfer learning using both ResNet18 and ResNet50 architectures to classify Pokémon images. The appeal of ResNet models lies in  their use of Residual Blocks, which are designed to address the challenges that come with training very deep neural networks.
 
-    Results:
+    Results: <br>
     **3 Type Classification**:
     - ResNet18: 
         - Best Validation Accuracy: 79.62%
@@ -77,4 +77,6 @@ Sources:
     - https://docs.pytorch.org/vision/0.9/models.html
     - https://www.youtube.com/watch?v=ZoZHd0Zm3RY&ab_channel=AladdinPersson
     - https://www.youtube.com/watch?v=jztwpsIzEGc&ab_channel=NicholasRenotte
+    - https://www.youtube.com/watch?v=H69j69FFMV0&ab_channel=GregHogg
+    - https://www.youtube.com/watch?v=CtzfbUwrYGI&ab_channel=NeuralNine
 
