@@ -44,8 +44,7 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
 
 3. Transfer Learning Model Using ResNet
 
-    Description:
-       - In this project, I applied transfer learning using both ResNet18 and ResNet50 architectures to classify Pokémon images. The appeal of ResNet models lies in  their use of Residual Blocks, which are designed to address the challenges that come with training very deep neural networks.
+    Description: In this project, I applied transfer learning using both ResNet18 and ResNet50 architectures to classify Pokémon images. The appeal of ResNet models lies in  their use of Residual Blocks, which are designed to address the challenges that come with training very deep neural networks. Furthermore, these Pre-Trained models have been trained on ImageNet, whereas training a model from scratch would typically require vast amounts of data and computational resources.
 
     Results: <br>
     **3 Type Classification**:
