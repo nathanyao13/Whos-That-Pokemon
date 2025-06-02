@@ -30,7 +30,7 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
     Fairy, Fighting, Psychic, Rock, Ghost, Ice, Dragon, Dark, 
     Steel, Flying. 
 
-1. Convolutional Neural Network (CNN) From Scratch
+1. Convolutional Neural Network (CNN) From Scratch: cnn.ipynb
 
     Description: In this project, I implemented a CNN from scratch using the PyTorch Library, building up layers such as convolutional layers, ReLU activations, max pooling, and fully connected layers to form a complete deep learning pipeline.
     
@@ -42,7 +42,7 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
     **18 Type Classification**:<br>
     - Best Validation Accuracy: 24.44% <br>
 
-3. Transfer Learning Model Using ResNet
+2. Transfer Learning Model Using ResNet: transfer_learning.ipynb
 
     Description: In this project, I applied transfer learning using both ResNet18 and ResNet50 architectures to classify Pokémon images. The appeal of ResNet models lies in  their use of Residual Blocks, which are designed to address the challenges that come with training very deep neural networks. Furthermore, these Pre-Trained models have been trained on ImageNet, whereas training a model from scratch would typically require vast amounts of data and computational resources.
 
