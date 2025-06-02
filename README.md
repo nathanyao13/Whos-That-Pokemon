@@ -21,8 +21,8 @@ Could you still tell which one it is?
 
 ---
 
-I have split this project into two different sections. The first problem showcases
-my understanding of ML. The second problem shows how I am able to apply models 
+I have split this project into two different sections. The first showcases
+my understanding of ML. The second shows how I am able to apply models 
 in the real world. 
 
 Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon types:
