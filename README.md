@@ -36,15 +36,11 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
     
 
     Results: <br>
-       **3 Type Classification**: <br>
-    - Time to Train: 0m 24s <br>
+    **3 Type Classification**: <br>
     - Best Validation Accuracy: 68.51% <br>
 
-       **18 Type Classification**:<br>
-    - Time to Train: 1m 23s <br>
+    **18 Type Classification**:<br>
     - Best Validation Accuracy: 24.44% <br>
-
-(Note: These results all have standard deviations due to randomness) <br>
 
 3. Transfer Learning Model Using ResNet
 
@@ -52,7 +48,19 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
        - In this project, I applied transfer learning using both ResNet18 and ResNet50 architectures to classify Pokémon images. The appeal of ResNet models lies in  their use of Residual Blocks, which are designed to address the challenges that come with training very deep neural networks.
 
     Results:
-       - 
+    **3 Type Classification**:
+    - ResNet18: 
+        - Best Validation Accuracy: 79.62%
+    - ResNet50:  
+        - Best Validation Accuracy: 66.66%
+
+    **18 Type Classification**:
+    - ResNet18:
+        - Best Validation Accuracy: 35.00%
+    - ResNet50: 
+        - Best Validation Accuracy: 28.88% 
+
+(Note: These results all have standard deviations due to randomness) <br>
 
 ---
 
