@@ -32,16 +32,24 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
 
 1. Convolutional Neural Network (CNN) From Scratch
 
-    Description:In this project, I implemented a CNN from scratch using the PyTorch Library, building up layers such as convolutional layers, ReLU activations, max pooling, and fully connected layers to form a complete deep learning pipeline.
+    Description: In this project, I implemented a CNN from scratch using the PyTorch Library, building up layers such as convolutional layers, ReLU activations, max pooling, and fully connected layers to form a complete deep learning pipeline.
     
 
     Results:
-       - 
+       **3 Type Classification**: <br>
+    - Time to Train: 0m 24s <br>
+    - Best Validation Accuracy: 68.51% <br>
+
+**18 Type Classification**:<br>
+    - Time to Train: 1m 23s <br>
+    - Best Validation Accuracy: 24.44% <br>
+
+(Note: These results all have standard deviations due to randomness) <br>
 
 3. Transfer Learning Model Using ResNet
 
     Description:
-       - 
+       - In this project, I applied transfer learning using both ResNet18 and ResNet50 architectures to classify Pokémon images. The appeal of ResNet models lies in  their use of Residual Blocks, which are designed to address the challenges that come with training very deep neural networks.
 
     Results:
        - 
