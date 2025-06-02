@@ -21,33 +21,30 @@ Could you still tell which one it is?
 
 ---
 
-I have split this project into two different problems. The first problem showcases
+I have split this project into two different sections. The first problem showcases
 my understanding of ML. The second problem shows how I am able to apply models 
 in the real world. 
 
-1. Classifying a Pokémon as a legendary or non-legendary:
-
-    According to the Pokémon Wikipedia page, Legendary Pokémon are described as:
-
-    “A group of incredibly rare and often very powerful Pokémon. They are often 
-    featured prominently in the legends and myths of the Pokémon world, with 
-    some even going so far as to view them as deities … No explicit criteria 
-    define what makes a Pokémon a Legendary Pokémon. Instead, the only way to 
-    identify a Pokémon as belonging to this group is through statements from 
-    official media, such as the games or animation.”
-
-    Description:
-
-    Results:
-
-3. Classifying a Pokémon's primary type out of the 18 Pokémon types:
+Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon types:
     Grass, Fire, Water, Bug, Normal, Poison, Electric, Ground, 
     Fairy, Fighting, Psychic, Rock, Ghost, Ice, Dragon, Dark, 
     Steel, Flying. 
 
+1. Convolutional Neural Network (CNN) From Scratch
+
     Description:
+       - 
 
     Results:
+       - 
+
+3. Transfer Learning Model Using ResNet
+
+    Description:
+       - 
+
+    Results:
+       - 
 
 ---
 
