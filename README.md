@@ -70,6 +70,7 @@ Sources:
     - https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset/data
 
     Research and Coding:
+    - https://www.cs.cmu.edu/~mgormley/courses/10601/
     - https://www.youtube.com/watch?v=FaW9JCSJn2s&ab_channel=SebastianRaschka
     - https://github.com/rasbt/stat453-deep-learning-ss21
     - https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
