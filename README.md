@@ -61,6 +61,8 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
 
 (Note: These results all have standard deviations due to randomness) <br>
 
+***(Improving these Models are still in Progress)***
+
 ---
 
 Sources:
