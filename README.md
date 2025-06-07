@@ -37,10 +37,10 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
 
     Results: <br>
     **3 Type Classification**: <br>
-    - Best Validation Accuracy: 68.51% <br>
+    - Best Validation Accuracy: 85.19% <br>
 
     **18 Type Classification**:<br>
-    - Best Validation Accuracy: 24.44% <br>
+    - Best Validation Accuracy: 34.44% <br>
 
 2. Transfer Learning Model Using ResNet: transfer_learning.ipynb
 
@@ -49,9 +49,9 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
     Results: <br>
     **3 Type Classification**:
     - ResNet18: 
-        - Best Validation Accuracy: 87.03%
+        - Best Validation Accuracy: 88.89%
     - ResNet50:  
-        - Best Validation Accuracy: 66.66%
+        - Best Validation Accuracy: 83.33%
 
     **18 Type Classification**:
     - ResNet18:
