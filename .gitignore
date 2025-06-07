@@ -3,3 +3,6 @@ kaggle.json
 meta_info.csv
 transfer_learning_new.ipynb
 mid_cnn.ipynb
+data_aug_transfer_learning.ipynb
+aug_cnn.ipynb
+vector_type.ipynb
