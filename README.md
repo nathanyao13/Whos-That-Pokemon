@@ -21,6 +21,8 @@ Could you still tell which one it is?
 
 ---
 
+## Problem Description
+
 I have split this project into two different sections. The first showcases
 my understanding of ML. The second shows how I am able to apply models 
 in the real world. 
@@ -32,7 +34,7 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
 
 1. Convolutional Neural Network (CNN) From Scratch: cnn.ipynb
 
-    Description: In this project, I implemented a CNN from scratch using the PyTorch Library, building up layers such as convolutional layers, ReLU activations, max pooling, and fully connected layers to form a complete deep learning pipeline.
+    Description: In this project, I implemented a CNN from scratch using the PyTorch Library, building up layers such as convolutional layers, ReLU activations, max pooling, batch normalization, and fully connected layers to form a complete deep learning pipeline.
     
 
     Results: <br>
@@ -110,8 +112,6 @@ In contrast, the **3-type classification task** is:
 - This project focused solely on classifying the **primary type**, which simplifies the problem but may overlook important features.
 - Some model errors appear to be caused by **confusion with secondary types**, especially in dual-typed Pokémon.
 - In future work, a **multi-label classification** approach could be adopted to account for both primary and secondary types, potentially improving accuracy.
-
----
 
 ### Accuracy and Dataset Limitations
 
