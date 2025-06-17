@@ -21,6 +21,8 @@ Could you still tell which one it is?
 
 ---
 
+## Problem Description
+
 I have split this project into two different sections. The first showcases
 my understanding of ML. The second shows how I am able to apply models 
 in the real world. 
