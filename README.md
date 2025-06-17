@@ -34,7 +34,7 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
 
 1. Convolutional Neural Network (CNN) From Scratch: cnn.ipynb
 
-    Description: In this project, I implemented a CNN from scratch using the PyTorch Library, building up layers such as convolutional layers, ReLU activations, max pooling, and fully connected layers to form a complete deep learning pipeline.
+    Description: In this project, I implemented a CNN from scratch using the PyTorch Library, building up layers such as convolutional layers, ReLU activations, max pooling, batch normalization, and fully connected layers to form a complete deep learning pipeline.
     
 
     Results: <br>
