@@ -113,8 +113,6 @@ In contrast, the **3-type classification task** is:
 - Some model errors appear to be caused by **confusion with secondary types**, especially in dual-typed Pokémon.
 - In future work, a **multi-label classification** approach could be adopted to account for both primary and secondary types, potentially improving accuracy.
 
----
-
 ### Accuracy and Dataset Limitations
 
 - The dataset contains images of approximately **800 Pokémon**, which limits model performance due to its relatively small size.
