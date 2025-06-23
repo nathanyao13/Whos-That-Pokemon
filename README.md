@@ -69,35 +69,35 @@ Both revolve around classifying a Pokémon's primary type out of the 18 Pokémon
 
 ### Overall Trend
 
-- Models consistently showed **higher validation accuracy** and **shorter training times** when classifying into **3 types** (Fire, Water, Grass) compared to **18 types**.
+- Models consistently showed higher validation accuracy and shorter training times when classifying into 3 types (Fire, Water, Grass) compared to 18 types.
 - Classifying Pokémon into 18 distinct types is inherently more difficult due to:
-  - **Class imbalance** — some types appear far more frequently than others.
-  - **Finer visual distinctions** between certain classes.
-  - **Higher output dimensionality**, requiring more nuanced predictions.
+  - Class imbalance — some types appear far more frequently than others.
+  - Finer visual distinctions between certain classes.
+  - Higher output dimensionality, requiring more nuanced predictions.
 
 This added complexity leads to:
-- **Longer training times** due to a more difficult optimization landscape.
-- **Lower validation accuracy**, as the model struggles to distinguish between visually similar types.
+- Longer training times due to a more difficult optimization landscape.
+- Lower validation accuracy, as the model struggles to distinguish between visually similar types.
 
-In contrast, the **3-type classification task** is:
-- More **balanced**,
-- More **visually distinct**, and
-- Achieves **over 80% accuracy** with shorter training times.
+In contrast, the 3-type classification task is:
+- More balanced,
+- More visually distinct, and
+- Achieves over 80% accuracy with shorter training times.
 
 
 ### Custom CNN vs. ResNet (Transfer Learning)
 
-- **Pretrained models** like ResNet consistently **outperform custom CNNs** on both tasks.
-- ResNet models are pretrained on large-scale datasets like **ImageNet**, allowing them to extract more powerful visual features.
-- **Transfer learning** enables these models to **generalize well** even on smaller, task-specific datasets (e.g., Pokémon images).
+- Pretrained models like ResNet consistently outperform custom CNNs on both tasks.
+- ResNet models are pretrained on large-scale datasets like ImageNet, allowing them to extract more powerful visual features.
+- Transfer learning enables these models to generalize well even on smaller, task-specific datasets (e.g., Pokémon images).
 
 
 ### ResNet18 vs. ResNet50
 
-- **ResNet18** achieved **higher validation accuracy** than **ResNet50**.
-- Despite ResNet50’s deeper architecture and theoretical advantage, it **underperformed** due to:
-  - The **small dataset size**, which increases the risk of overfitting.
-  - The **task complexity** not justifying the use of a deeper model.
+- ResNet18 achieved higher validation accuracy than ResNet50.
+- Despite ResNet50’s deeper architecture and theoretical advantage, it underperformed due to:
+  - The small dataset size, which increases the risk of overfitting.
+  - The task complexity not justifying the use of a deeper model.
 
 ---
 
@@ -106,20 +106,20 @@ In contrast, the **3-type classification task** is:
 
 ### Primary and Secondary Typing
 
-- Many Pokémon have **dual types** — a **primary type** and, if present, a **secondary type**.
-- This project focused solely on classifying the **primary type**, which simplifies the problem but may overlook important features.
-- Some model errors appear to be caused by **confusion with secondary types**, especially in dual-typed Pokémon.
-- In future work, a **multi-label classification** approach could be adopted to account for both primary and secondary types, potentially improving accuracy.
+- Many Pokémon have dual types — a primary type and, if present, a secondary type.
+- This project focused solely on classifying the primary type, which simplifies the problem but may overlook important features.
+- Some model errors appear to be caused by confusion with secondary types, especially in dual-typed Pokémon.
+- In future work, a multi-label classification approach could be adopted to account for both primary and secondary types, potentially improving accuracy.
 
 ### Accuracy and Dataset Limitations
 
-- The dataset contains images of approximately **800 Pokémon**, which limits model performance due to its relatively small size.
-- As **new Pokémon generations** are released, the dataset will grow in both **diversity** and **size**.
+- The dataset contains images of approximately 800 Pokémon, which limits model performance due to its relatively small size.
+- As new Pokémon generations are released, the dataset will grow in both diversity and size.
 - A larger and more balanced dataset would enable:
-  - Better **generalization**,
-  - Reduced **overfitting**, and
+  - Better generalization,
+  - Reduced overfitting, and
   - More accurate classification across all types.
-- Future iterations of this project using expanded datasets could yield **significantly better results**.
+- Future iterations of this project using expanded datasets could yield significantly better results.
 
 ---
 
